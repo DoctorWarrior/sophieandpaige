@@ -17,8 +17,8 @@ title: Sophie and Paige
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Sophie and Paige, a blog on fashion and friendship
-baseurl: /blog # the subpath of your site, e.g. /blog
-url: https://sophieandpaige.github.io # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: /sophieandpaige # the subpath of your site, e.g. /blog
+url: https://DoctorWarrior.github.io # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
 timezone: America/Los_Angeles
