@@ -1,0 +1,18 @@
+_site
+.sass-cache
+.jekyll-metadata
+
+
+*.DS_Store
+.vscode/
+__pycache__
+*.pyc
+
+# Ignore gem files for Github Pages
+/docs/vendor/
+
+# Ignore testing images
+/src/tests/images/
+
+# Ignore graphs
+/graphs/
